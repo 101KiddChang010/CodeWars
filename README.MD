@@ -10,6 +10,7 @@ programming language I choose, and the goal is to learn a lot from this journey!
 * JavaScript
 * Python
 * Java
+* C++
 
 
 ## Lessons Learned:
