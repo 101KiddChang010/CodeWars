@@ -11,13 +11,11 @@ programming language I choose, and the goal is to learn a lot from this journey!
 * Python
 * Java
 * C++
-
+* Swift
 
 ## Lessons Learned:
 
-I'm early in my journey, but this will teach me how to be commited and disciplined for my goal of daily 
+* I'm early in my journey, but this will teach me how to be commited and disciplined for my goal of daily 
 coding.
 
-
-
-
+* Swift file's naming convention is PascalCase.
